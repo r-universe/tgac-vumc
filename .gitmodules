@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ACE"]
 	path = ACE
 	url = https://github.com/tgac-vumc/ace
-	shallow = true
-	registered = true
 [submodule "CGHbase"]
 	path = CGHbase
 	url = https://github.com/tgac-vumc/cghbase
-	shallow = true
-	registered = true
